@@ -1,6 +1,6 @@
-# mg-db
+# devoted-db
 
-mg-db is an in-memory database system built with node.js and TypeScript.
+devoted-db is an in-memory database system built with node.js and TypeScript.
 
 ## Installation
 
