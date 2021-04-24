@@ -1,0 +1,29 @@
+{
+  "name": "devoted_assessment",
+  "version": "1.0.0",
+  "description": "In-Memory Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgentry612/devoted_assessment.git"
+  },
+  "keywords": [
+    "in-memory",
+    "database"
+  ],
+  "author": "Michael Gentry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mgentry612/devoted_assessment/issues"
+  },
+  "homepage": "https://github.com/mgentry612/devoted_assessment#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.41",
+    "jest": "^26.6.3",
+    "typescript": "^4.2.4"
+  }
+}
