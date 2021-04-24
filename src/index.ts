@@ -1,5 +1,6 @@
+export {}
 const readline = require('readline');
-import { Controller } from './database/controller.js';
+const Controller = require('./database/controller.js');
 
 const rl = readline.createInterface({
   input: process.stdin,

@@ -1,6 +1,7 @@
-import { Database } from './database.js';
+export {}
+const Database = require('./database.js');
 
-export class Controller {
+class Controller {
     private db: Database;
 
     constructor () {
@@ -90,4 +91,6 @@ export class Controller {
 
         }
     }
-};
+}
+
+module.exports = Controller

@@ -1,4 +1,4 @@
-import { Controller } from '../built/database/controller.js';
+const Controller = require('../built/database/controller.js');
 
 const runTests = (controller, lines) => {
     for (const line of lines) {

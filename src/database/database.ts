@@ -86,7 +86,7 @@ class Transaction {
     }
 }
 
-export class Database {
+class Database {
     private store: Store = {};
     private nameIndex: NameIndex = {};
     private valueIndex: ValueIndex = {};
@@ -306,3 +306,5 @@ export class Database {
     // End Transaction Operations
 
 }
+
+module.exports = Database
