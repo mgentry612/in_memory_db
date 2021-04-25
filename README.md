@@ -4,7 +4,7 @@ devoted-db is an in-memory database system built with node.js and TypeScript.
 
 ## Installation
 
-Install latest node.js and npm versions.
+Install the latest node.js and npm versions from https://nodejs.org/en/download/.
 
 Clone the repository.
 
