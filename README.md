@@ -1,6 +1,6 @@
-# devoted-db
+# in-memory db
 
-devoted-db is an in-memory database system built with node.js and TypeScript.
+in-memory db is an in-memory database system built with node.js and TypeScript.
 
 ## Installation
 
